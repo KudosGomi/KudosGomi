@@ -1,10 +1,10 @@
 ## Hey there, I'm Kevin - aka Kudos! 
 
 - 🌎 First generation in my family & the first generation to graduate college!!
-- 💻 Recently graduated with a BS degree in Computer Science with a minor in phyiscs ⚛️
+- 💻 Recently graduated with a BS degree in Computer Science with a minor in physics ⚛️
 - 🏓 Currently developing my own version control program out of impulse, call it working on my agile development workflow ...
 - ␂ A bit late at starting but wish me luck 🚀🌖
-- 🥖 2022 Goals: Land my first technical software developing job & build projects that immensly enhance my skill assets ⚒
+- 🥖 2022 Goals: Land my first technical software developing job & build projects that immensely  enhance my skill assets ⚒
 - 🌱 I’m looking to collaborate & would love to find a mentor to learn and chat with 👥
 
 ## Connect with me on LinkedIn and HackerRank: 
