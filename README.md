@@ -7,7 +7,7 @@
 - 🥖 2022 Goals: Land my first technical software developing job & build projects that immensly enhance my skill assets ⚒
 - 🌱 I’m looking to collaborate & would love to find a mentor to learn and chat with 👥
 
-## Connect with me:
+## Connect with me on LinkedIn and HackerRank: 
 
 [<img align="left" alt="KudosGomi | LinkedIn" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KudosGomi | LinkedIn" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
