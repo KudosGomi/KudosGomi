@@ -1,4 +1,4 @@
-## Hey there, I'm Kevin - aka Kudos! 
+## Hey there, I'm Kevin!
 
 - 🌎 2x First generation achievements 
 - 💻 Recently graduated with a BS degree in Computer Science with a minor in physics ⚛️
