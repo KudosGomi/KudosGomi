@@ -1,11 +1,11 @@
 ## Hey there, I'm Kevin!
 
-- 🌎 2x First generation achievements 
+- 🌎 2x First Generation Ascendancy
 - 💻 Recently graduated with a BS degree in Computer Science with a minor in physics ⚛️
 - 🏓 Currently developing my own version control program out of impulse, call it working on my agile development workflow ...
+- 🥖 2022 Goals: Land my first technical software developing job & build projects that immensely enhance my skill assets 🧰🔧
+- 🌱 I’m looking to collaborate & would love to find a mentor to learn and chat with ☕️
 - ␂ A bit late at starting but wish me luck 🚀🌖
-- 🥖 2022 Goals: Land my first technical software developing job & build projects that immensely  enhance my skill assets ⚒
-- 🌱 I’m looking to collaborate & would love to find a mentor to learn and chat with 👥
 
 ## Connect with me on LinkedIn and HackerRank: 
 
@@ -38,15 +38,15 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [linkedin]: https://www.linkedin.com/in/keving-cs/
 [hackerrank]: https://www.hackerrank.com/Sanghelious
 [java]: https://github.com/KudosGomi/Automated-Excel-Data-Sheet
-[python]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+[python]: https://github.com/KudosGomi/Behavioral-Extraction-and-Analysis-Tool-BEAT-System
+[android]: https://github.com/KudosGomi/Pet-Finder-Mobile-App
+[swift]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png
 [git]: https://git-scm.com
 [github]: https://github.com/KudosGomi
 [html5]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
 [css]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png
 [linux]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
 [terminal]: https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png
-[swift]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png
-[android]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png
 
 <!---
 KudosGomi/KudosGomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
