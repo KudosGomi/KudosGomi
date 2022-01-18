@@ -37,7 +37,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [linkedin]: https://www.linkedin.com/in/keving-cs/
 [hackerrank]: https://www.hackerrank.com/Sanghelious
-[java]: https://docs.oracle.com/en/java/
+[java]: https://github.com/KudosGomi/Automated-Excel-Data-Sheet
 [python]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 [git]: https://git-scm.com
 [github]: https://github.com/KudosGomi
