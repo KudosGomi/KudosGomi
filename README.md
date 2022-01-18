@@ -1,6 +1,6 @@
 ## Hey there, I'm Kevin - aka Kudos! 
 
-- 🌎 First generation in my family & the first generation to graduate college!!
+- 🌎 2x First generation achievements 
 - 💻 Recently graduated with a BS degree in Computer Science with a minor in physics ⚛️
 - 🏓 Currently developing my own version control program out of impulse, call it working on my agile development workflow ...
 - ␂ A bit late at starting but wish me luck 🚀🌖
