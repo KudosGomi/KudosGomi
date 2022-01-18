@@ -7,13 +7,6 @@
 - 🌱 I’m looking to collaborate & would love to find a mentor to learn and chat with ☕️
 - ␂ A bit late at starting but wish me luck 🚀🌖
 
-## Connect with me on LinkedIn and HackerRank: 
-
-[<img align="left" alt="KudosGomi | LinkedIn" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="KudosGomi | LinkedIn" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-
-<br />
-
  ## Programming Languages and Tools:
 
 [<img align="left" alt="KudosGomi | Java" width="22px" 
@@ -31,6 +24,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][swift]
 [<img align="left" alt="KudosGomi | Java" width="22px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
+
+<br />
+
+## Connect with me on LinkedIn and HackerRank: 
+
+[<img align="left" alt="KudosGomi | LinkedIn" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KudosGomi | LinkedIn" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 
 <br />
 <br />
