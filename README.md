@@ -17,6 +17,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [<img align="left" alt="KudosGomi | Swift" width="22px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][swift]
 [<img align="left" alt="KudosGomi | github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="KudosGomi | github" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 <br />
 
 [<img align="left" alt="KudosGomi | git" width="22px" 
@@ -43,6 +44,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [python]: https://github.com/KudosGomi/Behavioral-Extraction-and-Analysis-Tool-BEAT-System
 [android]: https://github.com/KudosGomi/Pet-Finder-Mobile-App
 [swift]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png
+[javascript]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 [git]: https://git-scm.com
 [github]: https://github.com/KudosGomi
 [html5]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
