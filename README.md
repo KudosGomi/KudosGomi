@@ -3,9 +3,9 @@
 - 🌎 2x First Generation Ascendancy
 - 💻 Recently graduated with a BS degree in Computer Science with a minor in physics ⚛️
 - 🏓 Currently developing my own version control program out of impulse, call it working on my agile development workflow ...
-- 🥖 2022 Goals: Land my first technical software developing job & build projects that immensely enhance my skill assets 🧰🔧
-- 🌱 I’m looking to collaborate & would love to find a mentor to learn and chat with ☕️
-- ␂ A bit late at starting but wish me luck 🚀🌖
+- 🥖 2023 Goals: Land a project manager or lead software engineering position 🖥💼
+- 🌱 I’m looking to collaborate & would love to find others to learn and chat with ☕️
+- ␂ Endeavoring into my freelance entrepreneur buisness adventure 🚀🌖
 
  ## Programming Languages and Tools:
 
