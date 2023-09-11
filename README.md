@@ -1,7 +1,7 @@
 ## Hey there, I'm Kevin!
 
 - 🌎 2x First Generation Ascendancy
-- 💻 Recently graduated with a BS degree in Computer Science with a minor in physics ⚛️
+- 💻 Recently graduated with a BS degree in Computer Science with a minor in physics back in the Fall of 2019 ⚛️
 - 🏓 Currently developing my own version control program out of impulse, call it working on my agile development workflow ...
 - 🥖 2023 Goals: Land a project manager or lead software engineering position 🖥💼
 - 🌱 I’m looking to collaborate & would love to find others to learn and chat with ☕️
