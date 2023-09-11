@@ -2,7 +2,7 @@
 
 - 🌎 2x First Generation Ascendancy
 - 💻 Recently graduated with a BS degree in Computer Science with a minor in physics back in the Fall of 2019 ⚛️
-- 🏓 Currently developing my own version control program out of impulse, call it working on my agile development workflow ...
+- 🏓 Currently mastering web design and web development on a Full-Stack premise 👨🏻‍🍳🥞
 - 🥖 2023 Goals: Land a project manager or lead software engineering position 🖥💼
 - 🌱 I’m looking to collaborate & would love to find others to learn and chat with ☕️
 - ␂ Endeavoring into my freelance entrepreneur buisness adventure 🚀🌖
